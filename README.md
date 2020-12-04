@@ -74,6 +74,10 @@ See more details in [the configuration file page](https://github.com/lingtalfi/E
 History Log
 =============
 
+- 1.0.2 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.1 -- 2019-07-18
 
     - update docTools documentation, add links to source code for classes and methods
